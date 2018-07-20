@@ -6,13 +6,13 @@
     <head>
         <meta charset="utf-8" />
           
-			<title>SameAs Validator</title>
+			<title>CODA</title>
 	<link href="css/bootstrap.css" rel="stylesheet">
     	<link href="css/bootstrap-theme.css" rel="stylesheet">
         <link type="text/css" rel="stylesheet" href="css/cssTPOCR.css">
     </head>
     <body>
-    
+<h1><p style="text-align:center">CODA: SameAs validation</p></h1>
     <!-- <h2>${reussi }</h2> -->
     
         <form action="SameAsValidator" method="post" enctype="multipart/form-data" id="recherche">
